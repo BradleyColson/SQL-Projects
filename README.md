@@ -1,6 +1,7 @@
 # Telecom Churn SQL Project
 
 - [Overview](#overview)
+- [Data_Limitations](#DataLimitation)
 - [SQL](#SQL)
 - [Key_Insights](#Key_Insights)
 
@@ -40,7 +41,7 @@ Fiber customers noticeably churned more. The data set did not break down the cos
 Spending rate did not lead to churn. In many cases those that spent more kept services for 1-2 years.
 Customers paying by electronic check did churn the most of all payment types.
 
-## Data Limitations
+## Data_Limitations
 
 The data set did not have dates, therefore a chart with churn rate trends wasn't created. The dataset only had length of account called tenure.
 
