@@ -33,7 +33,7 @@ Top Churn
 - Month to month       43%
 - < 6 months service   55%
 
-
+## PowerBI dashboard showing key categories
 
 ![TelecomChurn1 (1)](https://github.com/user-attachments/assets/c40f9b88-88d7-4d31-ad06-e707588d668d)
 
