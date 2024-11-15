@@ -1,15 +1,17 @@
 # Telecom Churn SQL Project
 
 - [Overview](#overview)
+- [Data_Description](#Data_Description)
+- [Key_Insights](#Key_Insights)
 - [Data_Limitations](#DataLimitations)
 - [Technical_SQL_Details](#Technical_SQL_Details)
-- [Key_Insights](#Key_Insights)
+
 
 # Overview
 
 Investigating which customers are churning based on demographics, services, billing, and churn data.
 
-# Data Description
+# Data_Description
 
 Telecom churn data set. It has 21 columns and 7044 rows. It's from Kaggle and didn't need cleaning.
 I would have removed duplicates, split columns, used =name(Proper) to standardize the headers.
