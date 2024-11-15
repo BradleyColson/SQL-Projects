@@ -17,13 +17,13 @@ Customer categories that churn the most. The overall churn rate for all customer
 
 Top Churn
 
-Seniors              42%
-Electronic check     45%
-No Dependents        33%
-Fiber                42%
-No partner           33%
-Month to month       43%
-< 6 months service   55%
+- Seniors              42%
+- Electronic check     45%
+- No Dependents        33%
+- Fiber                42%
+- No partner           33%
+- Month to month       43%
+- < 6 months service   55%
 
 
 
