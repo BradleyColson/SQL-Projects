@@ -37,12 +37,12 @@ Top Churn
 
 ![TelecomChurn1 (1)](https://github.com/user-attachments/assets/c40f9b88-88d7-4d31-ad06-e707588d668d)
 
-Seniors tend to be lower income.
-Singles and those without dependents move more often.
-Fiber customers noticeably churned more. The data set did not break down the cost of service, just the monthly total.
+- Seniors tend to be lower income.
+- Singles and those without dependents move more often.
+- Fiber customers noticeably churned more. The data set did not break down the cost of service, just the monthly total.
 
-Spending rate did not lead to churn. In many cases those that spent more kept services for 1-2 years.
-Customers paying by electronic check did churn the most of all payment types.
+- Spending rate did not lead to churn. In many cases those that spent more kept services for 1-2 years.
+- Customers paying by electronic check did churn the most of all payment types.
 
 # Business_Suggestions
 
