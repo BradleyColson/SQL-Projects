@@ -1,7 +1,8 @@
 # Telecom Churn SQL Project
 
-[Overview section](#overview)
-[SQL](#SQL)
+- [Overview](#overview)
+- [SQL](#SQL)
+- [Key_Insights](#Key_Insights)
 
 # Overview
 
@@ -13,7 +14,7 @@ Telecom churn data set. It has 21 columns and 7044 rows. It's from Kaggle and di
 I would have removed duplicates, split columns, used =name(Proper) to standardize the headers.
 It contains demographics, products, and billing. This data set really should be 3 tables joined on customer ID.
 
-## Key Insights
+## Key_Insights
 Keep in mind the telecom industry's average churn rate is 20-30%.
 
 Customer categories that churn the most. The overall churn rate for all customer categories was 27%
