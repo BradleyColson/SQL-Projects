@@ -1,8 +1,8 @@
 # Telecom Churn SQL Project
 
 - [Overview](#overview)
-- [Data_Limitations](#DataLimitation)
-- [SQL](#SQL)
+- [Data_Limitations](#DataLimitations)
+- [Technical_SQL_Details](#Technical_SQL_Details)
 - [Key_Insights](#Key_Insights)
 
 # Overview
@@ -15,7 +15,7 @@ Telecom churn data set. It has 21 columns and 7044 rows. It's from Kaggle and di
 I would have removed duplicates, split columns, used =name(Proper) to standardize the headers.
 It contains demographics, products, and billing. This data set really should be 3 tables joined on customer ID.
 
-## Key_Insights
+# Key_Insights
 Keep in mind the telecom industry's average churn rate is 20-30%.
 
 Customer categories that churn the most. The overall churn rate for all customer categories was 27%
@@ -41,12 +41,12 @@ Fiber customers noticeably churned more. The data set did not break down the cos
 Spending rate did not lead to churn. In many cases those that spent more kept services for 1-2 years.
 Customers paying by electronic check did churn the most of all payment types.
 
-## Data_Limitations
+# Data_Limitations
 
 The data set did not have dates, therefore a chart with churn rate trends wasn't created. The dataset only had length of account called tenure.
 
-## Technical SQL Details
-# SQL
+# Technical_SQL_Details
+
 
 Used MYSQL for exploratory data analysis.  Churn is the rate of which customers cancel all services. Focused on using COUNTS and GROUP BY to see which categories of cusotmers had the highest churn rate. 
 
