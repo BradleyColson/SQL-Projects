@@ -43,9 +43,11 @@ Customers paying by electronic check did churn the most of all payment types.
 
 The data set did not have dates, therefore a chart with churn rate trends wasn't created. The dataset only had length of account called tenure.
 
-## Technical Details
+## Technical SQL Details
 
 Used MYSQL for exploratory data analysis.  Churn is the rate of which customers cancel all services. Focused on using COUNTS and GROUP BY to see which categories of cusotmers had the highest churn rate. 
+
+[Telecom SQL Queries.docx](https://github.com/user-attachments/files/17779596/Telecom.SQL.Queries.docx)
 
 
 
