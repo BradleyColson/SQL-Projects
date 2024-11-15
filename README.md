@@ -1,7 +1,7 @@
 # Telecom Churn SQL Project
 
-[Check out the Installation section](#overview)
-[Check out the Installation section](#DataDescription)
+[Check out the overview section](#overview)
+[Check out the DataDescription section](#DataDescription)
 
 # Overview
 
