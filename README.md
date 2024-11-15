@@ -3,7 +3,7 @@
 - [Overview](#overview)
 - [Data_Description](#Data_Description)
 - [Key_Insights](#Key_Insights)
-- [Business_Suggestion](#Business_Suggestion)
+- [Business_Suggestions](#Business_Suggestions)
 - [Data_Limitations](#DataLimitations)
 - [Technical_SQL_Details](#Technical_SQL_Details)
 
@@ -44,7 +44,7 @@ Fiber customers noticeably churned more. The data set did not break down the cos
 Spending rate did not lead to churn. In many cases those that spent more kept services for 1-2 years.
 Customers paying by electronic check did churn the most of all payment types.
 
-# Business_Suggestion
+# Business_Suggestions
 
 - Suggest creating an incentive program for month to month subscribers
 - Try to steer customers away from electronic check payments.
