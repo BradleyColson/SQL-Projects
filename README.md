@@ -13,7 +13,9 @@ It contains demographics, products, and billing. This data set really should be 
 ## Key Insights
 Keep in mind the telecom industry's average churn rate is 20-30%.
 
-Customer categories that churn the most.
+Customer categories that churn the most. The overall churn rate for all customer categories was 27%
+
+Top Churn
 
 Seniors          42%
 Singles          33%
@@ -37,6 +39,5 @@ The data set did not have dates, therefore a chart with churn rate trends wasn't
 Used MYSQL for exploratory data analysis.  Churn is the rate of which customers cancel all services. Focused on using COUNTS and GROUP BY to see which categories of cusotmers had the highest churn rate. 
 
 
+![TelecomChurn1](https://github.com/user-attachments/assets/b41a2a1b-4cd4-4d31-aed3-f2fcba565ab8)
 
-
-![TelecomChurn](https://github.com/user-attachments/assets/b3c3212d-698a-4593-aa82-0980493f0c63)
