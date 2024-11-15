@@ -11,13 +11,15 @@ I would have removed duplicates, split columns, used =name(Proper) to standardiz
 It contains demographics, products, and billing. This data set really should be 3 tables joined on customer ID.
 
 ## Key Insights
-Customer categories that churn the most
+Keep in mind the telecom industry's average churn rate is 20-30%.
 
-Seniors
-Singles
-Month to month
-Fiber
-Electronic check
+Customer categories that churn the most.
+
+Seniors          42%
+Singles          33%
+Month to month   43%
+Fiber            42%
+Electronic check 45%
 
 Seniors tend to be lower income.
 Singles and those without dependents move more often.
