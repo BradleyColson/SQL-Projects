@@ -17,11 +17,17 @@ Customer categories that churn the most. The overall churn rate for all customer
 
 Top Churn
 
-Seniors          42%
-Singles          33%
-Month to month   43%
-Fiber            42%
-Electronic check 45%
+Seniors              42%
+Electronic check     45%
+No Dependents        33%
+Fiber                42%
+No partner           33%
+Month to month       43%
+< 6 months service   55%
+
+
+
+![TelecomChurn1 (1)](https://github.com/user-attachments/assets/c40f9b88-88d7-4d31-ad06-e707588d668d)
 
 Seniors tend to be lower income.
 Singles and those without dependents move more often.
@@ -38,6 +44,6 @@ The data set did not have dates, therefore a chart with churn rate trends wasn't
 
 Used MYSQL for exploratory data analysis.  Churn is the rate of which customers cancel all services. Focused on using COUNTS and GROUP BY to see which categories of cusotmers had the highest churn rate. 
 
-![TelecomChurn1 (1)](https://github.com/user-attachments/assets/c40f9b88-88d7-4d31-ad06-e707588d668d)
+
 
 
